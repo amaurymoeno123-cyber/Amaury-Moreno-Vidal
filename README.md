@@ -25,10 +25,10 @@ I am a **Systems Engineering student** at Unisabaneta and an entrepreneur focuse
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amaurymoeno123-cyber&show_icons=true&theme=tokyonight" alt="Amaury's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurymoeno123-cyber&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaurymoeno123-cyber&show_icons=true&theme=tokyonight&count_private=true" alt="Amaury Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaurymoeno123-cyber&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
