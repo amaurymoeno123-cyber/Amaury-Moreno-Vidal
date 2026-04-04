@@ -20,15 +20,16 @@ I am a **Systems Engineering student** at Unisabaneta and an entrepreneur focuse
 
 - **AI-Driven WhatsApp Gateway:** An autonomous agent architecture that processes leads, qualifies them using LLMs, and syncs data with a custom CRM.
 - **Business Management Dashboard:** A full-stack administrative platform for real-time project tracking and lead management.
-- **Algorithmic Trading Concept:** Exploring the intersection of financial markets and AI-driven decision making.
 
 ---
 
 ### 📈 GitHub Stats
-![Amaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurymoreno-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaurymoreno-dev&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=amaurymoeno123-cyber&show_icons=true&theme=tokyonight" alt="Amaury's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurymoeno123-cyber&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/amaurymoreno/) | [Email](mailto:amaurymorenovidal@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/amaury-moreno-vidal-24132a369/) | [Email](mailto:amaurymorenovidal@icloud.com)
