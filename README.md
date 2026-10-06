@@ -9,12 +9,13 @@ Desarrollador full-stack en Medellín. Construyo y opero software en producción
 | Project | What it shows | Stack |
 | --- | --- | --- |
 | [**whatsapp-booking-agent**](https://github.com/amaurymoeno123-cyber/whatsapp-booking-agent) | Open version of a booking bot I run in production: LLM tool-calling loop, staff-taught knowledge base, overlap-proof bookings with a PostgreSQL exclusion constraint, RLS lockdown tested in CI | Deno · Supabase Edge Functions · PostgreSQL · OpenAI |
+| [**production-health-monitor**](https://github.com/amaurymoeno123-cyber/production-health-monitor) | The monitor I run over my production stack: catches what fails silently (paused databases, blocked WhatsApp numbers, LLM keys out of credit, broken cron jobs) and alerts on Telegram only when something changes | Deno · Supabase · PostgreSQL · Telegram |
 | [**logisti-x**](https://github.com/amaurymoeno123-cyber/logisti-x) | Dispatch & delivery microservice: hexagonal architecture, transactional outbox, state machine, 99 tests against real PostgreSQL in CI, 11 ADRs | Java 21 · Spring Boot 3.5 · PostgreSQL 16 · JWT · SSE |
 | [**Booking bot case study**](https://portafolio-sistema.vercel.app) | The same bot from the client side: how a streaming studio uses it, with voice notes and staff approval | Supabase · Deno Edge Functions · OpenAI · WhatsApp Cloud API |
 | [**prueba-tecnica-kodigo**](https://github.com/amaurymoeno123-cyber/prueba-tecnica-kodigo) | Incident management module built for a technical test, with decisions documented | React · TypeScript · Express · Prisma · Docker |
 | [**ai-lead-classifier-pro**](https://github.com/amaurymoeno123-cyber/ai-lead-classifier-pro) | Lead scoring and sales pitch generation with an LLM | Python · Streamlit · Llama 3 (Groq) · Supabase |
 
-Most of my client work lives in private repositories. I have shipped three WhatsApp bots to production, a health monitor that checks 13 sites every 30 minutes and alerts on Telegram, and sites like [sistemaswebcolombia.com](https://sistemaswebcolombia.com).
+Most of my client work lives in private repositories. I have shipped three WhatsApp bots to production and sites like [sistemaswebcolombia.com](https://sistemaswebcolombia.com).
 
 ### How I work
 
