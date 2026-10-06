@@ -14,7 +14,7 @@ Desarrollador full-stack en Medellín. Construyo y opero software en producción
 | [**prueba-tecnica-kodigo**](https://github.com/amaurymoeno123-cyber/prueba-tecnica-kodigo) | Incident management module built for a technical test, with decisions documented | React · TypeScript · Express · Prisma · Docker |
 | [**ai-lead-classifier-pro**](https://github.com/amaurymoeno123-cyber/ai-lead-classifier-pro) | Lead scoring and sales pitch generation with an LLM | Python · Streamlit · Llama 3 (Groq) · Supabase |
 
-Most of my client work lives in private repositories. In production today: three WhatsApp bots, a health monitor that checks 13 sites every 30 minutes and alerts on Telegram, and sites like [sistemaswebcolombia.com](https://sistemaswebcolombia.com).
+Most of my client work lives in private repositories. I have shipped three WhatsApp bots to production, a health monitor that checks 13 sites every 30 minutes and alerts on Telegram, and sites like [sistemaswebcolombia.com](https://sistemaswebcolombia.com).
 
 ### How I work
 
