@@ -8,8 +8,9 @@ Desarrollador full-stack en Medellín. Construyo y opero software en producción
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [**whatsapp-booking-agent**](https://github.com/amaurymoeno123-cyber/whatsapp-booking-agent) | Open version of a booking bot I run in production: LLM tool-calling loop, staff-taught knowledge base, overlap-proof bookings with a PostgreSQL exclusion constraint, RLS lockdown tested in CI | Deno · Supabase Edge Functions · PostgreSQL · OpenAI |
 | [**logisti-x**](https://github.com/amaurymoeno123-cyber/logisti-x) | Dispatch & delivery microservice: hexagonal architecture, transactional outbox, state machine, 99 tests against real PostgreSQL in CI, 11 ADRs | Java 21 · Spring Boot 3.5 · PostgreSQL 16 · JWT · SSE |
-| [**Conversational booking system**](https://portafolio-sistema.vercel.app) | Case study of a WhatsApp booking bot in production for a streaming studio: voice notes, admin approval, and a bot that learns answers from humans | Supabase · Deno Edge Functions · OpenAI · WhatsApp Cloud API |
+| [**Booking bot case study**](https://portafolio-sistema.vercel.app) | The same bot from the client side: how a streaming studio uses it, with voice notes and staff approval | Supabase · Deno Edge Functions · OpenAI · WhatsApp Cloud API |
 | [**prueba-tecnica-kodigo**](https://github.com/amaurymoeno123-cyber/prueba-tecnica-kodigo) | Incident management module built for a technical test, with decisions documented | React · TypeScript · Express · Prisma · Docker |
 | [**ai-lead-classifier-pro**](https://github.com/amaurymoeno123-cyber/ai-lead-classifier-pro) | Lead scoring and sales pitch generation with an LLM | Python · Streamlit · Llama 3 (Groq) · Supabase |
 
